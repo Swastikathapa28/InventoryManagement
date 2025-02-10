@@ -1,2 +1,3 @@
 # InventoryManagement
-SEM projrct
+SEM project
+ SDC BIM 
